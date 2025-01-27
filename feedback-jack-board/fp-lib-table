@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "molex-picoflex8")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/molex/ul_908140508/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Tayda-A6446-6-35mm-Compact-PCB-Mounted-Jack")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/pedal-component-footprint.pretty/Tayda-A6446-6-35mm-Compact-PCB-Mounted-Jack.pretty")(options "")(descr ""))
+)
