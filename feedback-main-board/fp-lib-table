@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "molex-picoflex8")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/molex/ul_908140508/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Pots")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/konstrukt-kicad6/lib/R0904NB10KL-25KQ")(options "")(descr ""))
+  (lib (name "MBP switches")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/MadbeanV3ForKiCad/switches.pretty")(options "")(descr ""))
+  (lib (name "MBP enclosures")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/MadbeanV3ForKiCad/enclosures.pretty")(options "")(descr ""))
+)

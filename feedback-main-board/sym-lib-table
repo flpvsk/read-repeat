@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "molex-picoflex8")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/molex/ul_908140508/KiCADv6/2025-01-27_12-45-18.kicad_sym")(options "")(descr ""))
+  (lib (name "Pots")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/konstrukt-kicad6/lib/R0904NB10KL-25KQ/R0904NB10KL-25KQ.kicad_sym")(options "")(descr ""))
+)
