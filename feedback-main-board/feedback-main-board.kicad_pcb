@@ -167,7 +167,7 @@
     (property "Sheetname" "Core")
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/9168da22-08f6-46bd-8428-27169ad491cb")
     (attr through_hole)
-    (fp_text reference "RV2" (at -0.405 -6.939) (layer "F.SilkS")
+    (fp_text reference "RV2" (at -0.405 -6.939) (layer "F.SilkS") hide
       (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp debc39c6-0408-44a2-9e3c-f3e32b731221)
     )
@@ -320,7 +320,7 @@
     (property "Sheetname" "Core")
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/11199812-0929-4e3b-b0a0-f10b26263809")
     (attr through_hole)
-    (fp_text reference "RV3" (at -0.405 -6.939) (layer "F.SilkS")
+    (fp_text reference "RV3" (at -0.405 -6.939) (layer "F.SilkS") hide
       (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp a7b76aaf-8885-4162-8489-d48af336d8f9)
     )
@@ -473,7 +473,7 @@
     (property "Sheetname" "Core")
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/800e6ec3-9175-4513-9bb2-e8f7f441d8b6")
     (attr through_hole)
-    (fp_text reference "RV1" (at -0.405 -6.939) (layer "F.SilkS")
+    (fp_text reference "RV1" (at -0.405 -6.939) (layer "F.SilkS") hide
       (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp 445c86b7-d67d-48b5-a252-d309135caa76)
     )
@@ -2246,6 +2246,11 @@
       (net 27 "/Out") (pinfunction "7") (pintype "unspecified") (tstamp d7dc1184-5a41-4194-90b7-3ec6d33bdb62))
     (pad "8" smd rect locked (at 4.445 3.001902) (size 1.1938 2.0066) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "/GND") (pinfunction "8") (pintype "unspecified") (tstamp a54e1ba8-b000-4be7-bbb5-d8a18abb7f38))
+    (model "/Volumes/hdd/Projects/kicad/footprints/molex/ul_908140508/908140508.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (layer "B.Cu")
