@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RDRPT Jacks Board")
+    (date "2025-02-06")
+    (rev "v1rev1")
+    (company "Pedal Markt / Andrei Salomatin")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack3_SwitchTR" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 8.89 0)
