@@ -1121,7 +1121,7 @@
     (uuid f7c19440-0fba-4ef1-addb-efa4ed498676)
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 167.64 48.26 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 167.64 48.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 00760eaf-801f-43a3-a2c1-e13ee21a87cc)
     (property "Reference" "U2" (id 0) (at 167.64 38.1 0))
@@ -1628,7 +1628,7 @@
     (pin "2" (uuid 1ff94afb-7a5a-4d81-ba78-b3568d9432fd))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 57.15 171.45 0) (mirror x) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 57.15 171.45 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9e25b776-d83d-4899-9cdc-1ad2a02d8e60)
     (property "Reference" "U2" (id 0) (at 57.15 161.29 0))
@@ -1731,7 +1731,7 @@
     (pin "2" (uuid f1e65e71-2d71-49fa-bad8-5a87bf3ea99b))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 57.15 114.3 0) (mirror x) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 57.15 114.3 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d1982675-d26f-453f-b6e7-1b38ce346730)
     (property "Reference" "U2" (id 0) (at 57.15 104.14 0))
@@ -1799,7 +1799,7 @@
     (pin "2" (uuid 95e28ecd-9dff-4fd6-8088-2597f4c8803e))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 48.26 0) (mirror x) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 48.26 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e0a84abb-9577-4377-ad97-14afdd16834d)
     (property "Reference" "U1" (id 0) (at 58.42 38.1 0))
@@ -1841,7 +1841,7 @@
     (pin "2" (uuid 9a86ec28-6233-410a-b043-9294a068cbb7))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 166.37 114.3 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 166.37 114.3 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ef0194b7-acc5-4bdd-b867-7a20113ce3be)
     (property "Reference" "U2" (id 0) (at 166.37 104.14 0))

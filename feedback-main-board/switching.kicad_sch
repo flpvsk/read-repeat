@@ -2434,7 +2434,7 @@
     (pin "2" (uuid fb1ddecc-7348-433b-ba53-85730b722d43))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 103.505 93.98 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 103.505 93.98 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b1183543-3f60-49a5-acfa-37a9fabbb5e5)
     (property "Reference" "U1" (id 0) (at 103.505 83.82 0))
