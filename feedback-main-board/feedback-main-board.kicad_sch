@@ -2318,9 +2318,6 @@
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/745557d1-e183-4cd2-928a-420f3d373af5"
       (reference "R42") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/c998c4f3-010e-4d41-a88f-ae033035a479"
-      (reference "R43") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/800e6ec3-9175-4513-9bb2-e8f7f441d8b6"
       (reference "RV1") (unit 1) (value "A100k") (footprint "Pots:V3_TRIM_R0904NB10KL-Keepout")
     )
