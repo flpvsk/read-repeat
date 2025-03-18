@@ -1615,17 +1615,17 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 350871e3-5ee1-4577-9ae3-8c84468cb1f5)
     (property "Reference" "U1" (id 0) (at 119.38 165.1 0))
-    (property "Value" "TL074" (id 1) (at 119.38 167.64 0))
+    (property "Value" "OPA1679" (id 1) (at 119.38 167.64 0))
     (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 118.11 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (id 3) (at 120.65 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "595-TL074IDR" (id 4) (at 119.38 175.26 0)
+    (property "Mouser" "" (id 4) (at 119.38 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C6964" (id 5) (at 119.38 175.26 0)
+    (property "LCSC" "C2878631" (id 5) (at 119.38 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid db478a84-4769-42a3-86dc-2e32c49ff8ea))
@@ -2182,10 +2182,10 @@
       (reference "C22") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/2acaba7c-2c37-4c50-b5ab-82904981598d"
-      (reference "C23") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
+      (reference "C23") (unit 1) (value "1u") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
     )
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/31ea2568-2a60-4284-b16b-1abaa81bb226"
-      (reference "C24") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
+      (reference "C24") (unit 1) (value "1u") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
     )
     (path "/33d99f4b-8b73-4d0e-a3d6-2802a6b2bf53"
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
@@ -2371,34 +2371,34 @@
       (reference "SW2") (unit 1) (value "SW_SPDT") (footprint "MBP switches:SPDT.LUGS.PM")
     )
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/b1183543-3f60-49a5-acfa-37a9fabbb5e5"
-      (reference "U1") (unit 1) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U1") (unit 1) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/bcb2a5d8-c4b6-4be1-8ff1-60f3a8f7a093"
-      (reference "U1") (unit 2) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U1") (unit 2) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/e0a84abb-9577-4377-ad97-14afdd16834d"
-      (reference "U1") (unit 3) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U1") (unit 3) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/350871e3-5ee1-4577-9ae3-8c84468cb1f5"
-      (reference "U1") (unit 4) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U1") (unit 4) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/7be4afbf-e0ce-42e7-81c8-e65a04856218"
-      (reference "U1") (unit 5) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U1") (unit 5) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/00760eaf-801f-43a3-a2c1-e13ee21a87cc"
-      (reference "U2") (unit 1) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U2") (unit 1) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/d1982675-d26f-453f-b6e7-1b38ce346730"
-      (reference "U2") (unit 2) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U2") (unit 2) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/ef0194b7-acc5-4bdd-b867-7a20113ce3be"
-      (reference "U2") (unit 3) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U2") (unit 3) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/9e25b776-d83d-4899-9cdc-1ad2a02d8e60"
-      (reference "U2") (unit 4) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U2") (unit 4) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/1c9013f3-dc47-4074-b623-b743c64985e1/44136471-a3f7-44d2-ba29-7c04779eb8bd"
-      (reference "U2") (unit 5) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (reference "U2") (unit 5) (value "OPA1679") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/1d8feff4-6f67-44eb-a00d-2c9ffae0f7bf"
       (reference "U3") (unit 1) (value "DG403") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
