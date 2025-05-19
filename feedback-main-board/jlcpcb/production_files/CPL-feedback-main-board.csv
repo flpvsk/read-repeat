@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,100u,CP_Elec_6.3x5.4,83.185,-120.523,270.0,bottom
-C2,10u,CP_Elec_5x5.4,124.079,-89.789,90.0,bottom
-C3,10u,CP_Elec_5x5.4,117.094,-89.789,90.0,bottom
+C2,22u,CP_Elec_5x5.4,124.079,-89.789,90.0,bottom
+C3,22u,CP_Elec_5x5.4,117.094,-89.789,90.0,bottom
 C4,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,116.713,-95.9855,90.0,bottom
 C5,100n,C_Rect_L7.0mm_W2.5mm_P5.00mm,126.238,-104.902,180.0,bottom
 C6,1u,C_Rect_L7.0mm_W4.5mm_P5.00mm,91.948,-108.712,0.0,bottom
@@ -41,7 +41,7 @@ Q4,MMBT3904,SOT-23,100.203,-81.407,90.0,bottom
 R1,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,72.39,-124.333,90.0,bottom
 R2,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,122.174,-96.012,90.0,bottom
 R3,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,124.968,-96.012,270.0,bottom
-R4,10,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,119.38,-96.012,90.0,bottom
+R4,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,119.38,-96.012,90.0,bottom
 R5,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,122.174,-99.822,90.0,bottom
 R6,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,109.347,-131.12,90.0,bottom
 R7,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,124.968,-99.822,270.0,bottom
@@ -79,6 +79,7 @@ R38,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,103.886,-81.3835,90.0,bottom
 R39,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,73.406,-127.762,90.0,bottom
 R40,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,133.477,-103.505,90.0,bottom
 R41,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,136.779,-87.122,270.0,bottom
+R42,10,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,128.651,-90.424,90.0,bottom
 RV1,A10k,V3_TRIM_R0904NB10KL-Keepout,131.0,-81.45,0.0,top
 RV2,A10k,V3_TRIM_R0904NB10KL-Keepout,69.0,-81.45,0.0,top
 RV3,A10k,V3_TRIM_R0904NB10KL-Keepout,100.0,-96.45,0.0,top
