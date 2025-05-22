@@ -988,8 +988,8 @@
     (effects (font (size 1 1) italic) (justify left bottom))
     (uuid 09aac9c1-a1ff-421f-be6a-c22f68ad9c66)
   )
-  (text "Try 2u2/A10K in case of clicks\neverywhere pre-DG403"
-    (at 96.52 57.15 0)
+  (text "20250522: larger pot values\nhelp with the pop,\ntried A100k everywhere\n\nTry 2u2/A10K in case of clicks~~\neverywhere pre-DG403"
+    (at 97.155 74.295 0)
     (effects (font (size 1 1) italic) (justify left bottom))
     (uuid a2084dda-4cd8-4bd4-95b3-caf7c4ee0f6b)
   )
