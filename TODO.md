@@ -1,0 +1,4 @@
+- [ ] Move to JFET switching
+- [ ] Move resistor for the 4.5V ref inside the opamp fb loop
+- [ ] Switch to fusion bonded cable connector
+- [ ] Switch to oversized electrolytic capacitors
