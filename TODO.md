@@ -2,3 +2,5 @@
 - [ ] Move resistor for the 4.5V ref inside the opamp fb loop
 - [ ] Switch to fusion bonded cable connector
 - [ ] Switch to oversized electrolytic capacitors
+- [ ] Update test points footprints
+- [ ] Rm +4.5V pour
