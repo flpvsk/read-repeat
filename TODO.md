@@ -1,8 +1,9 @@
-- [ ] Move to JFET switching
-- [ ] Move resistor for the 4.5V ref inside the opamp fb loop
+- [x] Move to JFET switching
+- [x] Move resistor for the 4.5V ref inside the opamp fb loop
 - [ ] Switch to fusion bonded cable connector
-- [ ] Switch to oversized electrolytic capacitors
+- [x] Switch to oversized electrolytic capacitors
 - [ ] Update test points footprints
 - [ ] Rm +4.5V pour
-- [ ] Seperate sig gnd and pwr gnd, connect them at PSU
+- [x] (dropped) Seperate sig gnd and pwr gnd, connect them at PSU
 - [ ] Add input filter
+- [ ] Physically space out audio from switching circuitry
