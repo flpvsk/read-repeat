@@ -26,4 +26,4 @@ cd .tmp
 zip -r $2/$NAME.zip $NAME
 cd -
 
-echo "Done. Run 'git push --all --tags' then create a release in the git forge."
+echo "Done. Run 'git push --all && git push --tags' then create a release in the git forge."
