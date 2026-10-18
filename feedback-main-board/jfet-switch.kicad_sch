@@ -5,10 +5,10 @@
 	(uuid "2b7f5107-4e24-4abb-a6e8-5f3be0b05c43")
 	(paper "A4")
 	(title_block
-		(title "Read/Repeat")
-		(date "2025-05-19")
-		(rev "v1rev4")
-		(company "Pedal Markt / Andrei Salomatin")
+		(title "RDRPT")
+		(date "2026-10-18")
+		(rev "v2rev1")
+		(company "Andrei Salomatin / akkusativ")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"

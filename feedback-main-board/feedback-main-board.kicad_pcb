@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "RDRPT")
+		(date "2026-10-18")
+		(rev "v2rev1")
+		(company "Andrei Salomatin / akkusativ")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" signal)
@@ -30570,7 +30576,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?14*")
-		(path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/b451e08b-2423-47c9-94f6-a1ba24d6fb09")
+		(path "/fabbdae9-6a23-4e5a-893f-65c7010c9eb5/a7afbada-deec-43c7-ba1a-7b985def0ebe")
 		(sheetname "/Switching/")
 		(sheetfile "switching.kicad_sch")
 		(units
