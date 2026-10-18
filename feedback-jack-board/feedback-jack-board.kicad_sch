@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "RDRPT Jacks Board")
-		(date "2025-02-06")
-		(rev "v1rev1")
-		(company "Pedal Markt / Andrei Salomatin")
+		(date "2026-10-18")
+		(rev "v2rev1")
+		(company "Andrei Salomatin / akkusativ")
 	)
 	(lib_symbols
 		(symbol "Connector:AudioJack3_SwitchTR"

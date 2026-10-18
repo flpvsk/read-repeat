@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","Out","tayda-A6446-6mm35-jack-pcb-compact",70.700000,-45.000000,90.000000,top
+"J2","Ret","tayda-A6446-6mm35-jack-pcb-compact",87.200000,-45.000000,90.000000,top
+"J3","In","tayda-A6446-6mm35-jack-pcb-compact",132.100000,-45.000000,90.000000,top
+"J4","Snd","tayda-A6446-6mm35-jack-pcb-compact",115.700000,-45.000000,90.000000,top
+"J5","FPC_Connector","JUSHUO_AFA07-S08FCA-00_1x8-1MP_P1.0mm_Horizontal",100.000000,-76.581000,0.000000,top
+"J6","Barrel_Jack_Switch","BarrelJack_GCT_DCJ200-10-A_Horizontal",100.800000,-55.626000,180.000000,top

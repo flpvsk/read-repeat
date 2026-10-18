@@ -63,15 +63,7 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|106955000|71225000|9152e971-1f7d-445a-8090-ffa9bda46b2f|cf52634c-83c9-46ed-9409-fc3480f42174",
-          ""
-        ],
-        [
-          "courtyards_overlap|94845000|71225000|bbb4b66f-85ee-43aa-8313-80c9930723cc|cf52634c-83c9-46ed-9409-fc3480f42174",
-          ""
-        ],
-        [
-          "starved_thermal|96500000|72625000|a620581a-1604-4293-a903-211dc307d55d|dd83e11d-2782-47d1-88a0-0240a40d4e6b|F.Cu",
+          "starved_thermal|96500000|73206000|a620581a-1604-4293-a903-211dc307d55d|dd83e11d-2782-47d1-88a0-0240a40d4e6b|F.Cu",
           ""
         ]
       ],
@@ -269,7 +261,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "v1rev1"
+      "sch_revision": "v2rev1"
     },
     "layer_pairs": [],
     "layer_presets": [],
