@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","Out","tayda-A6446-6mm35-jack-pcb-compact",71.500000,-45.000000,90.000000,top
+"J2","Ret","tayda-A6446-6mm35-jack-pcb-compact",88.250000,-45.000000,90.000000,top
+"J3","In","tayda-A6446-6mm35-jack-pcb-compact",133.000000,-45.000000,90.000000,top
+"J4","Snd","tayda-A6446-6mm35-jack-pcb-compact",116.350000,-45.000000,90.000000,top
+"J5","908140508","CONN_SDA-90814_08_MOL",100.000000,-76.000000,0.000000,top
+"J6","Barrel_Jack_Switch","BarrelJack_GCT_DCJ200-10-A_Horizontal",101.500000,-55.626000,180.000000,top
