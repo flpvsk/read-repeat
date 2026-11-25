@@ -1,0 +1,20 @@
+ERC report (2026-11-25T17:42:42, Encoding UTF8)
+Report includes: Errors
+
+***** Sheet /
+
+***** Sheet /Core/
+
+***** Sheet /Switching/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Symbol pin or wire end off connection grid
+    - Four connection points are joined together
+    - Conflict problem between pins
+    - SPICE model issue
+    - Library symbol issue
+    - Symbol doesn't match copy in library
+    - Assigned footprint doesn't match footprint filters

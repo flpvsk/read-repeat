@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Read/Repeat")
-		(date "2025-05-19")
-		(rev "v1rev4")
+		(date "2026-11-25")
+		(rev "v1rev5")
 		(company "Pedal Markt / Andrei Salomatin")
 	)
 	(lib_symbols
@@ -1291,18 +1291,6 @@
 			(justify left bottom)
 		)
 		(uuid "09aac9c1-a1ff-421f-be6a-c22f68ad9c66")
-	)
-	(text "Try 2u2/A10K in case of clicks\neverywhere pre-DG403"
-		(exclude_from_sim no)
-		(at 96.52 57.15 0)
-		(effects
-			(font
-				(size 1 1)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "a2084dda-4cd8-4bd4-95b3-caf7c4ee0f6b")
 	)
 	(junction
 		(at 155.575 165.1)

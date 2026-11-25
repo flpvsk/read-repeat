@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Read/Repeat")
-		(date "2025-05-19")
-		(rev "v1rev4")
+		(date "2026-11-25")
+		(rev "v1rev5")
 		(company "Pedal Markt / Andrei Salomatin")
 	)
 	(lib_symbols
@@ -3062,16 +3062,6 @@
 	)
 	(wire
 		(pts
-			(xy 159.385 175.26) (xy 159.385 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ee13b53-e7d6-414b-9592-08be3122f48c")
-	)
-	(wire
-		(pts
 			(xy 95.885 91.44) (xy 95.885 81.28)
 		)
 		(stroke
@@ -4170,16 +4160,6 @@
 		)
 		(uuid "3b8fcd3e-06c2-42a1-88c7-8f3308314659")
 	)
-	(label "MomState"
-		(at 254 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3d948d4b-d83b-4058-ba51-b771e79cad95")
-	)
 	(label "BypassState"
 		(at 52.705 50.8 180)
 		(effects
@@ -4189,26 +4169,6 @@
 			(justify right bottom)
 		)
 		(uuid "8886605a-d351-4bad-83d6-e5308ccf82c2")
-	)
-	(label "MomState"
-		(at 159.385 175.26 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "88f08115-01ef-41a0-8021-e4bb7b263f3b")
-	)
-	(label "MomState"
-		(at 194.31 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "97995b8f-ef00-47c9-8f5e-fec24a8e6f6e")
 	)
 	(label "BypassState"
 		(at 52.705 104.14 180)
@@ -4436,6 +4396,17 @@
 		)
 		(uuid "58d0ed12-b1b8-436e-a523-5242b904d131")
 	)
+	(hierarchical_label "MomSwIn"
+		(shape bidirectional)
+		(at 254 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6597375c-9b4d-4d55-845a-763e346e12c4")
+	)
 	(hierarchical_label "GND"
 		(shape bidirectional)
 		(at 231.775 61.595 270)
@@ -4622,6 +4593,17 @@
 			(justify left)
 		)
 		(uuid "d4302874-be94-4672-b983-ed2cb4118d82")
+	)
+	(hierarchical_label "MomSwIn"
+		(shape bidirectional)
+		(at 194.31 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5cdadaf-25a0-459c-9930-a2fc79868b2f")
 	)
 	(hierarchical_label "GND"
 		(shape bidirectional)

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Read/Repeat")
-		(date "2025-05-19")
-		(rev "v1rev4")
+		(date "2026-11-25")
+		(rev "v1rev5")
 		(company "Pedal Markt / Andrei Salomatin")
 	)
 	(lib_symbols
